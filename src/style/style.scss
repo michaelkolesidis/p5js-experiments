@@ -99,10 +99,11 @@ header {
   font-weight: 600;
 }
 
+#author:hover,
 .project-image:hover,
 .project-title:hover,
 .repo-link:hover {
-  opacity: 0.5;
+  opacity: 0.6;
 }
 
 /* media queries */
