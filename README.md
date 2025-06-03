@@ -2,7 +2,7 @@
 
 ![Screenshot](./public/images/experiments.png)
 
-A gallery of six p5.js experiments by Michael Kolesidis.
+A gallery of p5.js experiments by Michael Kolesidis.
 
 ## Experiments
 
