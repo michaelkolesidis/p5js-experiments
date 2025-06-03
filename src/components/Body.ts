@@ -8,5 +8,3 @@ export default function body() {
       <section id="projects"></section>
 `;
 }
-
-
